@@ -17,5 +17,11 @@ you can learn basic fundamels c# and react in the project
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Programmingisfun11/TodoApp/blob/main/screensApp/mainLayout.png"   width="450">
+  <img src="https://github.com/Programmingisfun11/TodoApp/blob/main/screensApp/waitingforDataApi.png"  width="450"  /> 
+
+</p>
+
 
 
