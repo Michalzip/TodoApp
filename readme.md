@@ -10,7 +10,7 @@ you can learn basic fundamels c# and react in the project
 
   you must write in console path \todo\TodoApp\TodoApp-Backend: </br>
     ```dotnet run #to start server backend ```</br></br>
-  if you want to start react  which has react go to todo\TodoApp\TodoApp-Frontend</br>
+  and  todo\TodoApp\TodoApp-Frontend</br>
     ```npm start #to start frontend ``` 
 
 
