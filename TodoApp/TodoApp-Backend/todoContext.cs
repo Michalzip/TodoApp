@@ -29,7 +29,7 @@ namespace TodoApp_Backend
 
 //configure connection string
         protected override void OnConfiguring(DbContextOptionsBuilder opt){
-            //ustalammy nazwe naszej bazy danych
+           
 opt.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=databaseContext;Trusted_Connection=True");
 
         }
